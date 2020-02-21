@@ -18,6 +18,7 @@ This game is using core Java , Java Swing GUI libraries , javax libraries and so
 
 **How to use**
 --Client
+<br/>
 1) It have .jar file in this repository is in the Client folder.  You can run the executable .jar file, named client.jar to play. you have to run program for 2 client machine.
 2) When open gui display, it have start button that you can click it. 
 3) After click start button, you would have to set IP address of server in the text box and click connect button.
@@ -26,6 +27,7 @@ This game is using core Java , Java Swing GUI libraries , javax libraries and so
 <img src="image/how3.jpg" align="middle" width="500"/>
 4) Finaly, You can plaw with arrow button in keyboard
 
-
+<br/>
 --Server
+<br/>
 1) It have .jar file in this repository is in the Myserver folder.  You can run the executable .jar file, named server.jar to open server and wait for 2 clients to connect it. You can run it from eclipse project too.
