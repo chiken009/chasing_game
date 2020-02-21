@@ -17,6 +17,7 @@ This game is using core Java , Java Swing GUI libraries , javax libraries and so
 
 
 **How to use**
+<br/>
 --Client
 <br/>
 1) It have .jar file in this repository is in the Client folder.  You can run the executable .jar file, named client.jar to play. you have to run program for 2 client machine.
